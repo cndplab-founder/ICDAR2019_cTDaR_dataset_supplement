@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="cTDaR_t10368.jpg">
+    <table>
+        <Coords points="228,693 228,795 751,795 751,693"/>
+        <cell id="0" neighbors="1:B 5:L">
+            <Coords points="530,707 723,707 723,722 530,722"/>
+        </cell>
+        <cell id="1" neighbors="0:T 2:B 6:L">
+            <Coords points="587,725 665,725 665,740 587,740"/>
+        </cell>
+        <cell id="2" neighbors="1:T 3:B 7:L">
+            <Coords points="565,743 686,743 686,756 565,756"/>
+        </cell>
+        <cell id="3" neighbors="2:T 4:B">
+            <Coords points="548,761 704,761 704,777 548,777"/>
+        </cell>
+        <cell id="4" neighbors="3:T">
+            <Coords points="559,780 693,780 693,794 559,794"/>
+        </cell>
+        <cell id="5" neighbors="0:R 6:B">
+            <Coords points="245,695 483,695 483,721 245,721"/>
+        </cell>
+        <cell id="6" neighbors="1:R 5:T 7:B">
+            <Coords points="327,725 401,725 401,740 327,740"/>
+        </cell>
+        <cell id="7" neighbors="2:R 6:T">
+            <Coords points="303,744 424,744 424,756 303,756"/>
+        </cell>
+    </table>
+</document>

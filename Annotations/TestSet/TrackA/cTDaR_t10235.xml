@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="cTDaR_t10235.jpg">
+    <table>
+        <Coords points="218,835 218,1364 1020,1364 1020,835"/>
+        <cell id="0" neighbors="1:R 4:B">
+            <Coords points="221,923 367,923 367,945 221,945"/>
+        </cell>
+        <cell id="1" neighbors="0:L 2:R 9:B">
+            <Coords points="460,894 572,894 572,945 460,945"/>
+        </cell>
+        <cell id="2" neighbors="1:L 3:R 10:B">
+            <Coords points="604,835 751,835 751,942 604,942"/>
+        </cell>
+        <cell id="3" neighbors="2:L 12:B">
+            <Coords points="779,923 1011,923 1011,945 779,945"/>
+        </cell>
+        <cell id="4" neighbors="0:T 5:B 9:R">
+            <Coords points="219,991 407,991 407,1039 219,1039"/>
+        </cell>
+        <cell id="5" neighbors="4:T 6:B 12:R">
+            <Coords points="234,1047 363,1047 363,1099 234,1099"/>
+        </cell>
+        <cell id="6" neighbors="5:T 7:B 8:R">
+            <Coords points="219,1169 413,1169 413,1218 219,1218"/>
+        </cell>
+        <cell id="7" neighbors="6:T 13:R">
+            <Coords points="236,1225 363,1225 363,1278 236,1278"/>
+        </cell>
+        <cell id="8" neighbors="6:L 9:T 11:R">
+            <Coords points="459,1167 538,1167 538,1216 459,1216"/>
+        </cell>
+        <cell id="9" neighbors="1:T 4:L 8:B 10:R">
+            <Coords points="459,989 573,989 573,1011 459,1011"/>
+        </cell>
+        <cell id="10" neighbors="2:T 9:L 11:B 12:R">
+            <Coords points="603,989 718,989 718,1011 603,1011"/>
+        </cell>
+        <cell id="11" neighbors="8:L 10:T 13:R">
+            <Coords points="603,1168 727,1168 727,1188 603,1188"/>
+        </cell>
+        <cell id="12" neighbors="3:T 5:L 10:L 13:B">
+            <Coords points="780,989 1017,989 1017,1130 780,1130"/>
+        </cell>
+        <cell id="13" neighbors="7:L 11:L 12:T">
+            <Coords points="779,1168 1020,1168 1020,1365 779,1365"/>
+        </cell>
+    </table>
+</document>

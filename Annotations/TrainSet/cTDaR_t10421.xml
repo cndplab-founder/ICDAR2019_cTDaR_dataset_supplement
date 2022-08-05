@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="cTDaR_t10421.jpg">
+    <table>
+        <Coords points="61,164 61,389 745,389 745,164"/>
+        <cell id="0" neighbors="1:B">
+            <Coords points="63,193 213,193 213,203 63,203"/>
+        </cell>
+        <cell id="1" neighbors="0:T 2:B 20:R">
+            <Coords points="62,206 149,206 149,217 62,217"/>
+        </cell>
+        <cell id="2" neighbors="1:T 3:B 21:R">
+            <Coords points="64,219 262,219 262,231 64,231"/>
+        </cell>
+        <cell id="3" neighbors="2:T 4:B 22:R">
+            <Coords points="64,233 463,233 463,245 64,245"/>
+        </cell>
+        <cell id="4" neighbors="3:T 5:B 28:R">
+            <Coords points="63,246 393,246 393,256 63,256"/>
+        </cell>
+        <cell id="5" neighbors="4:T 6:B 29:R">
+            <Coords points="64,259 272,259 272,270 64,270"/>
+        </cell>
+        <cell id="6" neighbors="5:T 7:B 30:R">
+            <Coords points="63,273 484,273 484,294 63,294"/>
+        </cell>
+        <cell id="7" neighbors="6:T 8:B 23:R">
+            <Coords points="63,298 263,298 263,309 63,309"/>
+        </cell>
+        <cell id="8" neighbors="7:T 9:B 37:R">
+            <Coords points="62,311 353,311 353,322 62,322"/>
+        </cell>
+        <cell id="9" neighbors="8:T 10:B 38:R">
+            <Coords points="63,325 173,325 173,336 63,336"/>
+        </cell>
+        <cell id="10" neighbors="9:T 11:B 24:R">
+            <Coords points="63,338 348,338 348,349 63,349"/>
+        </cell>
+        <cell id="11" neighbors="10:T 12:B 53:R">
+            <Coords points="62,352 498,352 498,373 62,373"/>
+        </cell>
+        <cell id="12" neighbors="11:T 54:R">
+            <Coords points="63,377 152,377 152,387 63,387"/>
+        </cell>
+        <cell id="13" neighbors="15:R 20:B">
+            <Coords points="507,180 541,180 541,188 507,188"/>
+        </cell>
+        <cell id="14" neighbors="15:B 16:R">
+            <Coords points="586,167 609,167 609,175 586,175"/>
+        </cell>
+        <cell id="15" neighbors="13:L 14:T 17:R 25:B">
+            <Coords points="593,180 608,180 608,189 593,189"/>
+        </cell>
+        <cell id="16" neighbors="14:L 17:B 18:R">
+            <Coords points="655,167 674,167 674,175 655,175"/>
+        </cell>
+        <cell id="17" neighbors="15:L 16:T 19:R 31:B">
+            <Coords points="660,179 674,179 674,189 660,189"/>
+        </cell>
+        <cell id="18" neighbors="16:L 19:B">
+            <Coords points="720,167 741,167 741,176 720,176"/>
+        </cell>
+        <cell id="19" neighbors="17:L 18:T 43:B">
+            <Coords points="727,179 741,179 741,189 727,189"/>
+        </cell>
+        <cell id="20" neighbors="1:L 13:T 21:B 25:R">
+            <Coords points="521,207 528,207 528,213 521,213"/>
+        </cell>
+        <cell id="21" neighbors="2:L 20:T 22:B 26:R">
+            <Coords points="521,220 528,220 528,227 521,227"/>
+        </cell>
+        <cell id="22" neighbors="3:L 21:T 23:B 27:R">
+            <Coords points="521,234 527,234 527,241 521,241"/>
+        </cell>
+        <cell id="23" neighbors="7:L 22:T 24:B 49:R">
+            <Coords points="522,298 528,298 528,306 522,306"/>
+        </cell>
+        <cell id="24" neighbors="10:L 23:T 39:R">
+            <Coords points="522,339 527,339 527,347 522,347"/>
+        </cell>
+        <cell id="25" neighbors="15:T 20:L 26:B 31:R">
+            <Coords points="581,207 610,207 610,217 581,217"/>
+        </cell>
+        <cell id="26" neighbors="21:L 25:T 27:B 32:R">
+            <Coords points="582,219 609,219 609,230 582,230"/>
+        </cell>
+        <cell id="27" neighbors="22:L 26:T 28:B 33:R">
+            <Coords points="582,233 608,233 608,243 582,243"/>
+        </cell>
+        <cell id="28" neighbors="4:L 27:T 29:B 34:R">
+            <Coords points="579,246 612,246 612,257 579,257"/>
+        </cell>
+        <cell id="29" neighbors="5:L 28:T 30:B 35:R">
+            <Coords points="596,259 609,259 609,269 596,269"/>
+        </cell>
+        <cell id="30" neighbors="6:L 29:T 36:R 37:B">
+            <Coords points="579,283 612,283 612,294 579,294"/>
+        </cell>
+        <cell id="31" neighbors="17:T 25:L 32:B 43:R">
+            <Coords points="652,206 675,206 675,217 652,217"/>
+        </cell>
+        <cell id="32" neighbors="26:L 31:T 33:B 44:R">
+            <Coords points="659,220 676,220 676,229 659,229"/>
+        </cell>
+        <cell id="33" neighbors="27:L 32:T 34:B 45:R">
+            <Coords points="652,234 675,234 675,243 652,243"/>
+        </cell>
+        <cell id="34" neighbors="28:L 33:T 35:B 46:R">
+            <Coords points="652,247 675,247 675,256 652,256"/>
+        </cell>
+        <cell id="35" neighbors="29:L 34:T 36:B 47:R">
+            <Coords points="656,261 678,261 678,270 656,270"/>
+        </cell>
+        <cell id="36" neighbors="30:L 35:T 40:B 48:R">
+            <Coords points="652,284 676,284 676,294 652,294"/>
+        </cell>
+        <cell id="37" neighbors="8:L 30:T 38:B 40:R">
+            <Coords points="587,312 612,312 612,322 587,322"/>
+        </cell>
+        <cell id="38" neighbors="9:L 37:T 39:B 41:R">
+            <Coords points="591,326 608,326 608,335 591,335"/>
+        </cell>
+        <cell id="39" neighbors="24:L 38:T 42:R 53:B">
+            <Coords points="593,339 611,339 611,349 593,349"/>
+        </cell>
+        <cell id="40" neighbors="36:T 37:L 41:B 50:R">
+            <Coords points="657,312 678,312 678,322 657,322"/>
+        </cell>
+        <cell id="41" neighbors="38:L 40:T 42:B 51:R">
+            <Coords points="659,326 676,326 676,335 659,335"/>
+        </cell>
+        <cell id="42" neighbors="39:L 41:T 52:R 55:B">
+            <Coords points="660,339 676,339 676,348 660,348"/>
+        </cell>
+        <cell id="43" neighbors="19:T 31:L 44:B">
+            <Coords points="718,207 742,207 742,216 718,216"/>
+        </cell>
+        <cell id="44" neighbors="32:L 43:T 45:B">
+            <Coords points="731,220 743,220 743,229 731,229"/>
+        </cell>
+        <cell id="45" neighbors="33:L 44:T 46:B">
+            <Coords points="718,233 741,233 741,242 718,242"/>
+        </cell>
+        <cell id="46" neighbors="34:L 45:T 47:B">
+            <Coords points="719,247 743,247 743,256 719,256"/>
+        </cell>
+        <cell id="47" neighbors="35:L 46:T 48:B">
+            <Coords points="723,260 745,260 745,270 723,270"/>
+        </cell>
+        <cell id="48" neighbors="36:L 47:T 49:B">
+            <Coords points="719,283 742,283 742,293 719,293"/>
+        </cell>
+        <cell id="49" neighbors="23:L 48:T 50:B">
+            <Coords points="716,299 745,299 745,308 716,308"/>
+        </cell>
+        <cell id="50" neighbors="40:L 49:T 51:B">
+            <Coords points="716,312 744,312 744,322 716,322"/>
+        </cell>
+        <cell id="51" neighbors="41:L 50:T 52:B">
+            <Coords points="719,326 743,326 743,335 719,335"/>
+        </cell>
+        <cell id="52" neighbors="42:L 51:T 57:B">
+            <Coords points="716,338 745,338 745,348 716,348"/>
+        </cell>
+        <cell id="53" neighbors="11:L 39:T 54:B 55:R">
+            <Coords points="591,362 609,362 609,371 591,371"/>
+        </cell>
+        <cell id="54" neighbors="12:L 53:T 56:R">
+            <Coords points="582,378 608,378 608,386 582,386"/>
+        </cell>
+        <cell id="55" neighbors="42:T 53:L 56:B 57:R">
+            <Coords points="657,363 674,363 674,371 657,371"/>
+        </cell>
+        <cell id="56" neighbors="54:L 55:T 58:R">
+            <Coords points="648,378 675,378 675,386 648,386"/>
+        </cell>
+        <cell id="57" neighbors="52:T 55:L 58:B">
+            <Coords points="724,362 741,362 741,371 724,371"/>
+        </cell>
+        <cell id="58" neighbors="56:L 57:T">
+            <Coords points="718,378 742,378 742,386 718,386"/>
+        </cell>
+    </table>
+    <table>
+        <Coords points="61,547 61,705 743,705 743,547"/>
+        <cell id="0" neighbors="1:B">
+            <Coords points="64,576 214,576 214,586 64,586"/>
+        </cell>
+        <cell id="1" neighbors="0:T 2:B 15:R">
+            <Coords points="64,590 137,590 137,600 64,600"/>
+        </cell>
+        <cell id="2" neighbors="1:T 3:B 18:R">
+            <Coords points="64,602 276,602 276,613 64,613"/>
+        </cell>
+        <cell id="3" neighbors="2:T 4:B 22:R">
+            <Coords points="63,616 462,616 462,627 63,627"/>
+        </cell>
+        <cell id="4" neighbors="3:T 5:B 23:R">
+            <Coords points="63,630 393,630 393,640 63,640"/>
+        </cell>
+        <cell id="5" neighbors="4:T 6:B 24:R">
+            <Coords points="63,643 182,643 182,654 63,654"/>
+        </cell>
+        <cell id="6" neighbors="5:T 7:B 25:R">
+            <Coords points="63,656 348,656 348,667 63,667"/>
+        </cell>
+        <cell id="7" neighbors="6:T 8:B 26:R">
+            <Coords points="63,669 480,669 480,689 63,689"/>
+        </cell>
+        <cell id="8" neighbors="7:T 27:R">
+            <Coords points="63,693 152,693 152,704 63,704"/>
+        </cell>
+        <cell id="9" neighbors="10:R 12:B">
+            <Coords points="570,550 593,550 593,558 570,558"/>
+        </cell>
+        <cell id="10" neighbors="9:L 11:R 13:B">
+            <Coords points="646,549 666,549 666,558 646,558"/>
+        </cell>
+        <cell id="11" neighbors="10:L 14:B">
+            <Coords points="719,549 739,549 739,557 719,557"/>
+        </cell>
+        <cell id="12" neighbors="9:T 13:R 15:B">
+            <Coords points="578,563 593,563 593,572 578,572"/>
+        </cell>
+        <cell id="13" neighbors="10:T 12:L 14:R 16:B">
+            <Coords points="652,562 666,562 666,571 652,571"/>
+        </cell>
+        <cell id="14" neighbors="11:T 13:L 17:B">
+            <Coords points="727,563 740,563 740,572 727,572"/>
+        </cell>
+        <cell id="15" neighbors="1:L 12:T 16:R 18:B">
+            <Coords points="572,590 597,590 597,599 572,599"/>
+        </cell>
+        <cell id="16" neighbors="13:T 15:L 17:R 19:B">
+            <Coords points="648,590 670,590 670,600 648,600"/>
+        </cell>
+        <cell id="17" neighbors="14:T 16:L 21:B">
+            <Coords points="725,590 741,590 741,599 725,599"/>
+        </cell>
+        <cell id="18" neighbors="2:L 15:T 19:R 22:B">
+            <Coords points="575,603 594,603 594,613 575,613"/>
+        </cell>
+        <cell id="19" neighbors="16:T 18:L 20:B">
+            <Coords points="652,603 667,603 667,612 652,612"/>
+        </cell>
+        <cell id="20" neighbors="19:T 21:R 22:L 28:B">
+            <Coords points="650,617 670,617 670,626 650,626"/>
+        </cell>
+        <cell id="21" neighbors="17:T 20:L 31:B">
+            <Coords points="726,616 741,616 741,625 726,625"/>
+        </cell>
+        <cell id="22" neighbors="3:L 18:T 20:R 23:B">
+            <Coords points="575,616 594,616 594,625 575,625"/>
+        </cell>
+        <cell id="23" neighbors="4:L 22:T 24:B 28:R">
+            <Coords points="573,630 597,630 597,639 573,639"/>
+        </cell>
+        <cell id="24" neighbors="5:L 23:T 25:B 29:R">
+            <Coords points="575,643 594,643 594,652 575,652"/>
+        </cell>
+        <cell id="25" neighbors="6:L 24:T 26:B 30:R">
+            <Coords points="578,656 597,656 597,666 578,666"/>
+        </cell>
+        <cell id="26" neighbors="7:L 25:T 27:B">
+            <Coords points="581,678 594,678 594,687 581,687"/>
+        </cell>
+        <cell id="27" neighbors="8:L 26:T 34:R">
+            <Coords points="576,694 593,694 593,703 576,703"/>
+        </cell>
+        <cell id="28" neighbors="20:T 23:L 29:B 31:R">
+            <Coords points="651,630 667,630 667,639 651,639"/>
+        </cell>
+        <cell id="29" neighbors="24:L 28:T 30:B 32:R">
+            <Coords points="649,643 671,643 671,653 649,653"/>
+        </cell>
+        <cell id="30" neighbors="25:L 29:T 33:R 34:B">
+            <Coords points="653,656 668,656 668,665 653,665"/>
+        </cell>
+        <cell id="31" neighbors="21:T 28:L 32:B">
+            <Coords points="722,630 742,630 742,639 722,639"/>
+        </cell>
+        <cell id="32" neighbors="29:L 31:T 33:B">
+            <Coords points="725,643 741,643 741,652 725,652"/>
+        </cell>
+        <cell id="33" neighbors="30:L 32:T 35:B">
+            <Coords points="727,656 743,656 743,665 727,665"/>
+        </cell>
+        <cell id="34" neighbors="27:L 30:T 35:R">
+            <Coords points="653,694 671,694 671,703 653,703"/>
+        </cell>
+        <cell id="35" neighbors="33:T 34:L">
+            <Coords points="730,694 741,694 741,702 730,702"/>
+        </cell>
+    </table>
+    <table>
+        <Coords points="61,791 61,986 743,986 743,791"/>
+        <cell id="0" neighbors="1:B 2:R 4:L">
+            <Coords points="598,794 660,794 660,823 598,823"/>
+        </cell>
+        <cell id="1" neighbors="0:T 3:R 5:L 7:B">
+            <Coords points="645,828 660,828 660,837 645,837"/>
+        </cell>
+        <cell id="2" neighbors="0:L 3:B">
+            <Coords points="718,813 740,813 740,822 718,822"/>
+        </cell>
+        <cell id="3" neighbors="1:L 2:T 8:B">
+            <Coords points="725,827 739,827 739,837 725,837"/>
+        </cell>
+        <cell id="4" neighbors="0:R 5:B 30:L">
+            <Coords points="535,804 580,804 580,822 535,822"/>
+        </cell>
+        <cell id="5" neighbors="1:R 4:T 6:B 31:L">
+            <Coords points="564,828 579,828 579,837 564,837"/>
+        </cell>
+        <cell id="6" neighbors="5:T 7:R 12:B 32:L">
+            <Coords points="562,841 581,841 581,850 562,850"/>
+        </cell>
+        <cell id="7" neighbors="1:T 6:L 8:R 11:B">
+            <Coords points="634,842 660,842 660,851 634,851"/>
+        </cell>
+        <cell id="8" neighbors="3:T 7:L 9:B">
+            <Coords points="709,842 741,842 741,851 709,851"/>
+        </cell>
+        <cell id="9" neighbors="8:T 10:B 12:L">
+            <Coords points="719,855 742,855 742,864 719,864"/>
+        </cell>
+        <cell id="10" neighbors="9:T 11:L 24:B">
+            <Coords points="709,868 741,868 741,877 709,877"/>
+        </cell>
+        <cell id="11" neighbors="7:T 10:R 13:L 23:B">
+            <Coords points="633,868 660,868 660,877 633,877"/>
+        </cell>
+        <cell id="12" neighbors="6:T 9:R 13:B 33:L">
+            <Coords points="570,854 583,854 583,864 570,864"/>
+        </cell>
+        <cell id="13" neighbors="11:R 12:T 14:B 34:L">
+            <Coords points="561,868 581,868 581,877 561,877"/>
+        </cell>
+        <cell id="14" neighbors="13:T 15:B 23:R 35:L">
+            <Coords points="563,895 580,895 580,904 563,904"/>
+        </cell>
+        <cell id="15" neighbors="14:T 16:B 25:R 36:L">
+            <Coords points="571,908 583,908 583,917 571,917"/>
+        </cell>
+        <cell id="16" neighbors="15:T 17:B 20:R 37:L">
+            <Coords points="563,922 581,922 581,930 563,930"/>
+        </cell>
+        <cell id="17" neighbors="16:T 18:B 21:R 38:L">
+            <Coords points="563,948 580,948 580,957 563,957"/>
+        </cell>
+        <cell id="18" neighbors="17:T 19:B 28:R 39:L">
+            <Coords points="572,962 583,962 583,971 572,971"/>
+        </cell>
+        <cell id="19" neighbors="18:T 22:R 40:L">
+            <Coords points="563,975 580,975 580,984 563,984"/>
+        </cell>
+        <cell id="20" neighbors="16:L 21:B 23:T 26:R">
+            <Coords points="636,921 661,921 661,930 636,930"/>
+        </cell>
+        <cell id="21" neighbors="17:L 20:T 22:B 27:R">
+            <Coords points="637,948 661,948 661,957 637,957"/>
+        </cell>
+        <cell id="22" neighbors="19:L 21:T 29:R">
+            <Coords points="637,975 661,975 661,984 637,984"/>
+        </cell>
+        <cell id="23" neighbors="11:T 14:L 20:B 24:R">
+            <Coords points="636,894 661,894 661,904 636,904"/>
+        </cell>
+        <cell id="24" neighbors="10:T 23:L 25:B">
+            <Coords points="712,894 741,894 741,904 712,904"/>
+        </cell>
+        <cell id="25" neighbors="15:L 24:T 26:B">
+            <Coords points="714,908 743,908 743,918 714,918"/>
+        </cell>
+        <cell id="26" neighbors="20:L 25:T 27:B">
+            <Coords points="716,922 740,922 740,931 716,931"/>
+        </cell>
+        <cell id="27" neighbors="21:L 26:T 28:B">
+            <Coords points="713,948 741,948 741,958 713,958"/>
+        </cell>
+        <cell id="28" neighbors="18:L 27:T 29:B">
+            <Coords points="721,961 743,961 743,970 721,970"/>
+        </cell>
+        <cell id="29" neighbors="22:L 28:T">
+            <Coords points="716,975 740,975 740,984 716,984"/>
+        </cell>
+        <cell id="30" neighbors="4:R 31:B">
+            <Coords points="453,803 499,803 499,822 453,822"/>
+        </cell>
+        <cell id="31" neighbors="5:R 30:T 32:B">
+            <Coords points="485,827 500,827 500,837 485,837"/>
+        </cell>
+        <cell id="32" neighbors="6:R 31:T 33:B 41:L">
+            <Coords points="474,842 501,842 501,851 474,851"/>
+        </cell>
+        <cell id="33" neighbors="12:R 32:T 34:B 42:L">
+            <Coords points="479,854 504,854 504,865 479,865"/>
+        </cell>
+        <cell id="34" neighbors="13:R 33:T 35:B 43:L">
+            <Coords points="473,867 500,867 500,878 473,878"/>
+        </cell>
+        <cell id="35" neighbors="14:R 34:T 36:B 44:L">
+            <Coords points="476,895 501,895 501,904 476,904"/>
+        </cell>
+        <cell id="36" neighbors="15:R 35:T 37:B 45:L">
+            <Coords points="474,908 503,908 503,918 474,918"/>
+        </cell>
+        <cell id="37" neighbors="16:R 36:T 38:B 46:L">
+            <Coords points="476,922 501,922 501,931 476,931"/>
+        </cell>
+        <cell id="38" neighbors="17:R 37:T 39:B 47:L">
+            <Coords points="477,948 501,948 501,957 477,957"/>
+        </cell>
+        <cell id="39" neighbors="18:R 38:T 40:B 48:L">
+            <Coords points="481,961 503,961 503,972 481,972"/>
+        </cell>
+        <cell id="40" neighbors="19:R 39:T 49:L">
+            <Coords points="477,974 500,974 500,984 477,984"/>
+        </cell>
+        <cell id="41" neighbors="32:R 42:B">
+            <Coords points="64,841 201,841 201,852 64,852"/>
+        </cell>
+        <cell id="42" neighbors="33:R 41:T 43:B">
+            <Coords points="64,854 283,854 283,865 64,865"/>
+        </cell>
+        <cell id="43" neighbors="34:R 42:T 44:B">
+            <Coords points="64,868 176,868 176,877 64,877"/>
+        </cell>
+        <cell id="44" neighbors="35:R 43:T 45:B">
+            <Coords points="64,895 201,895 201,905 64,905"/>
+        </cell>
+        <cell id="45" neighbors="36:R 44:T 46:B">
+            <Coords points="64,908 284,908 284,918 64,918"/>
+        </cell>
+        <cell id="46" neighbors="37:R 45:T 47:B">
+            <Coords points="64,922 164,922 164,930 64,930"/>
+        </cell>
+        <cell id="47" neighbors="38:R 46:T 48:B">
+            <Coords points="64,948 201,948 201,958 64,958"/>
+        </cell>
+        <cell id="48" neighbors="39:R 47:T 49:B">
+            <Coords points="64,961 283,961 283,971 64,971"/>
+        </cell>
+        <cell id="49" neighbors="40:R 48:T">
+            <Coords points="64,975 166,975 166,984 64,984"/>
+        </cell>
+    </table>
+</document>

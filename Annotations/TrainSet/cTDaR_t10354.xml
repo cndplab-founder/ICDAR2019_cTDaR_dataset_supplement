@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="cTDaR_t10354.jpg">
+    <table>
+        <Coords points="145,434 145,886 680,886 680,434"/>
+        <cell id="0" neighbors="2:R 9:B">
+            <Coords points="146,457 265,457 265,475 146,475"/>
+        </cell>
+        <cell id="1" neighbors="2:B 3:R">
+            <Coords points="299,433 391,433 391,448 299,448"/>
+        </cell>
+        <cell id="2" neighbors="0:L 1:T 4:R 5:B">
+            <Coords points="298,457 431,457 431,492 298,492"/>
+        </cell>
+        <cell id="3" neighbors="1:L 4:B">
+            <Coords points="455,434 511,434 511,447 455,447"/>
+        </cell>
+        <cell id="4" neighbors="2:L 3:T 6:B">
+            <Coords points="454,456 671,456 671,535 454,535"/>
+        </cell>
+        <cell id="5" neighbors="2:T 6:R 8:B">
+            <Coords points="298,556 440,556 440,573 298,573"/>
+        </cell>
+        <cell id="6" neighbors="4:T 5:L 7:B">
+            <Coords points="452,556 641,556 641,613 452,613"/>
+        </cell>
+        <cell id="7" neighbors="6:T 8:L 13:B">
+            <Coords points="453,635 604,635 604,691 453,691"/>
+        </cell>
+        <cell id="8" neighbors="5:T 7:R 9:L 10:B">
+            <Coords points="299,634 408,634 408,651 299,651"/>
+        </cell>
+        <cell id="9" neighbors="0:T 8:R 12:B">
+            <Coords points="144,633 204,633 204,649 144,649"/>
+        </cell>
+        <cell id="10" neighbors="8:T 11:B 13:R">
+            <Coords points="299,713 403,713 403,748 299,748"/>
+        </cell>
+        <cell id="11" neighbors="10:T 12:L 14:R">
+            <Coords points="297,811 431,811 431,848 297,848"/>
+        </cell>
+        <cell id="12" neighbors="9:T 11:R">
+            <Coords points="146,811 248,811 248,827 146,827"/>
+        </cell>
+        <cell id="13" neighbors="7:T 10:L 14:B">
+            <Coords points="454,712 671,712 671,788 454,788"/>
+        </cell>
+        <cell id="14" neighbors="11:L 13:T">
+            <Coords points="454,811 664,811 664,887 454,887"/>
+        </cell>
+    </table>
+</document>

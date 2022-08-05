@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="cTDaR_t10119.jpg">
+    <table>
+        <Coords points="540,890 540,1007 935,1007 935,890"/>
+        <cell id="0" neighbors="1:B 7:R">
+            <Coords points="598,896 672,896 672,909 598,909"/>
+        </cell>
+        <cell id="1" neighbors="0:T 2:B 9:R">
+            <Coords points="602,920 665,920 665,937 602,937"/>
+        </cell>
+        <cell id="2" neighbors="1:T 3:B 6:R">
+            <Coords points="594,941 674,941 674,957 594,957"/>
+        </cell>
+        <cell id="3" neighbors="2:T 4:B 10:R">
+            <Coords points="615,962 654,962 654,978 615,978"/>
+        </cell>
+        <cell id="4" neighbors="3:T 5:R">
+            <Coords points="554,985 713,985 713,1002 554,1002"/>
+        </cell>
+        <cell id="5" neighbors="4:L 6:T">
+            <Coords points="772,985 790,985 790,999 772,999"/>
+        </cell>
+        <cell id="6" neighbors="2:L 5:B 7:T">
+            <Coords points="773,941 791,941 791,957 773,957"/>
+        </cell>
+        <cell id="7" neighbors="0:L 6:B 8:R">
+            <Coords points="733,896 829,896 829,911 733,911"/>
+        </cell>
+        <cell id="8" neighbors="7:L 9:B">
+            <Coords points="864,899 905,899 905,914 864,914"/>
+        </cell>
+        <cell id="9" neighbors="1:L 8:T 10:B">
+            <Coords points="846,921 923,921 923,937 846,937"/>
+        </cell>
+        <cell id="10" neighbors="3:L 9:T">
+            <Coords points="856,962 914,962 914,978 856,978"/>
+        </cell>
+    </table>
+</document>

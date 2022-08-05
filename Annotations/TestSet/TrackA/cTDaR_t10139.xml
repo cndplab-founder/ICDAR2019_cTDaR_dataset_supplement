@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="cTDaR_t10139.jpg">
+    <table>
+        <Coords points="91,200 91,355 1115,355 1115,200"/>
+        <cell id="0" neighbors="1:B 8:R">
+            <Coords points="96,221 159,221 159,233 96,233"/>
+        </cell>
+        <cell id="1" neighbors="0:T 2:B 5:R">
+            <Coords points="94,243 262,243 262,276 94,276"/>
+        </cell>
+        <cell id="2" neighbors="1:T 3:B 6:R">
+            <Coords points="95,280 229,280 229,295 95,295"/>
+        </cell>
+        <cell id="3" neighbors="2:T 4:B 7:R">
+            <Coords points="97,301 265,301 265,332 97,332"/>
+        </cell>
+        <cell id="4" neighbors="3:T 21:R">
+            <Coords points="94,335 138,335 138,353 94,353"/>
+        </cell>
+        <cell id="5" neighbors="1:L 6:B 8:T 10:R">
+            <Coords points="325,243 369,243 369,257 325,257"/>
+        </cell>
+        <cell id="6" neighbors="2:L 5:T 7:B 11:R">
+            <Coords points="324,280 367,280 367,295 324,295"/>
+        </cell>
+        <cell id="7" neighbors="3:L 6:T 12:R">
+            <Coords points="324,300 513,300 513,334 324,334"/>
+        </cell>
+        <cell id="8" neighbors="0:L 5:B 9:R">
+            <Coords points="322,204 408,204 408,235 322,235"/>
+        </cell>
+        <cell id="9" neighbors="8:L 10:B 13:R">
+            <Coords points="553,205 638,205 638,237 553,237"/>
+        </cell>
+        <cell id="10" neighbors="5:L 9:T 11:B 14:R">
+            <Coords points="555,243 595,243 595,256 555,256"/>
+        </cell>
+        <cell id="11" neighbors="6:L 10:T 12:B 15:R">
+            <Coords points="555,279 597,279 597,294 555,294"/>
+        </cell>
+        <cell id="12" neighbors="7:L 11:T 16:R">
+            <Coords points="555,300 780,300 780,331 555,331"/>
+        </cell>
+        <cell id="13" neighbors="9:L 14:B 18:R">
+            <Coords points="804,204 895,204 895,236 804,236"/>
+        </cell>
+        <cell id="14" neighbors="10:L 13:T 15:B 17:R">
+            <Coords points="806,244 846,244 846,258 806,258"/>
+        </cell>
+        <cell id="15" neighbors="11:L 14:T 16:B 19:R">
+            <Coords points="803,279 847,279 847,295 803,295"/>
+        </cell>
+        <cell id="16" neighbors="12:L 15:T 20:R">
+            <Coords points="803,302 991,302 991,333 803,333"/>
+        </cell>
+        <cell id="17" neighbors="14:L 18:T 19:B">
+            <Coords points="1075,241 1107,241 1107,256 1075,256"/>
+        </cell>
+        <cell id="18" neighbors="13:L 17:B">
+            <Coords points="1038,204 1105,204 1105,232 1038,232"/>
+        </cell>
+        <cell id="19" neighbors="15:L 17:T 20:B">
+            <Coords points="1075,282 1106,282 1106,292 1075,292"/>
+        </cell>
+        <cell id="20" neighbors="16:L 19:T 21:B">
+            <Coords points="1074,300 1104,300 1104,314 1074,314"/>
+        </cell>
+        <cell id="21" neighbors="4:L 20:T">
+            <Coords points="1065,337 1106,337 1106,352 1065,352"/>
+        </cell>
+    </table>
+</document>
