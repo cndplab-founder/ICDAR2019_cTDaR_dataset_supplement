@@ -37,7 +37,7 @@ For the annotation of dataset, The notation is modified from ICDAR 2019 cTDaR Co
 
 In the XML file, Each `<table>` element corresponds to a table, which contains a single `<Coords>` element with `[points]` attribute to indicates the coordinates of the bounding polygon with 4 vertices. Table contain a list of `<cell>` elements.
 
-Especially in this format, each `<cell>` element has a attribute `[id]` which denotes a unique numerical for this cell, and a attribute `[neighbors]`, which denotes its left, right, top, bottom adjoining cell id by `[L]`,`[R]`,`[T]`,`[B]` separately.
+Especially in this format, each `<cell>` element has a attribute `[id]` which denotes a unique numerical index for this cell, and a attribute `[neighbors]`, which denotes its left, right, top, bottom adjoining cell id by `[L]`,`[R]`,`[T]`,`[B]` separately.
 
 
 ## Reference
