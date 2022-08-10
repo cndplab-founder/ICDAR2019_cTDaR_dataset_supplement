@@ -16,7 +16,7 @@ The following table shows the number of training and test images, which are full
 |Track B.2  | --  | 100 |
 
 
-## Ground Truth Format
+## Annotation Format
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
