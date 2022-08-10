@@ -33,11 +33,11 @@ The following table shows the number of training and test images, which are full
     </table>
 </document>
 ```
-For the annotation of dataset, The notation is expanded from ICDAR 2019 cTDaR Competition format, appending <cell/id> and <cell/neighbors> to store the relations between the adjoining cells.
+For the annotation of dataset, The notation is modified from ICDAR 2019 cTDaR Competition format, appending `<cell/id>` and `<cell/neighbors>` to store the relations between the adjoining cells.
 
-In the XML file, Each `<table>` element corresponds to a table, which contains a single `<Coords>` element with `[points]` attribute to indicates the coordinates of the bounding polygon with 4 vertices. Table contain a list of `<cell>` elements, for each `<cell>` element attributes `[start-row]`, `[start-col]`, `[end-row]` and `[end-col] `denotes its position in the table, a unique numerical `[id]` for this cell. 
+In the XML file, Each `<table>` element corresponds to a table, which contains a single `<Coords>` element with `[points]` attribute to indicates the coordinates of the bounding polygon with 4 vertices. Table contain a list of `<cell>` elements.
 
-Especially, each `<cell>` element has attribute `[neighbors]` in this dataset, which denotes its left, right, top, bottom adjoining cell id by `[L]`,`[R]`,`[T]`,`[B]` separately.
+Especially in this format, each `<cell>` element has a attribute `[id]` which denotes a unique numerical for this cell, and a attribute `[neighbors]`, which denotes its left, right, top, bottom adjoining cell id by `[L]`,`[R]`,`[T]`,`[B]` separately.
 
 
 ## Reference
